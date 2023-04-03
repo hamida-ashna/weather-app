@@ -57,4 +57,14 @@ body {
   .search-form {
     margin-bottom: 20px;
   }
+
+  #last{
+    display: block;
+    margin: 2px auto;
+    text-align: center;
+  }
+
+  #last a{
+    color: brown;
+  }
   
